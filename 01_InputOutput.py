@@ -1,0 +1,5 @@
+nome = input("Ciao! Come ti chiami? ")
+print("Bene, piacere di conoscerti",nome)
+print("Vogliamo sapere se ti piace programmare")
+risposta = input("Ti piace programmare? ")
+print("Bene, hai scritto:",risposta)
