@@ -11,5 +11,5 @@ else:
         conteggio += 1
         if minimo <= numero <= massimo:
             numeri_validi.append(numero)
-    print(f"I numeri validi generati sono: {numeri_validi}")
-    print(f"Totale numeri generati: {conteggio}")
+    print("I numeri validi generati sono:",numeri_validi)
+    print("Totale numeri generati:",conteggio)
